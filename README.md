@@ -43,5 +43,4 @@ Do not include markdown code fences or any other text outside the JSON.
 
 ---
 Built by [Matteo Vercelli](https://github.com/Mttv0) · September 2026
-# n8n-feedback-triage
-n8n workflow that classifies user feedback with Claude and routes urgent items
+
